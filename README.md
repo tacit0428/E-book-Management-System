@@ -9,11 +9,11 @@
 
 ##### 上传电子书：
 
-![image-20210125103340069](C:\Users\Dell\AppData\Roaming\Typora\typora-user-images\image-20210125103340069.png)
+![image](https://github.com/tacit0428/E-book-Management-System/blob/master/Showimg/Upload.png)
 
 电子书列表展示：
 
-![image-20210125104145051](C:\Users\Dell\AppData\Roaming\Typora\typora-user-images\image-20210125104145051.png)
+![image](https://github.com/tacit0428/E-book-Management-System/blob/master/Showimg/List.png)
 
 #### 前端技术：
 
