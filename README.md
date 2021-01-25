@@ -5,6 +5,16 @@
 - 基于MySQL进行电子书数据存储，并将资源上传到Nginx静态资源服务器
 - 利用JWT实现了token的生成、校验和路由过滤，从而实现用户登录功能
 
+#### 样例：
+
+##### 上传电子书：
+
+![image-20210125103340069](C:\Users\Dell\AppData\Roaming\Typora\typora-user-images\image-20210125103340069.png)
+
+电子书列表展示：
+
+![image-20210125104145051](C:\Users\Dell\AppData\Roaming\Typora\typora-user-images\image-20210125104145051.png)
+
 #### 前端技术：
 
 - Vue
